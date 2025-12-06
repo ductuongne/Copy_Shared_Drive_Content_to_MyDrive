@@ -14,7 +14,7 @@ The tool works by:
 ## Requirements
 
 - A Google account (to use Google Colab and Google Drive)
-- The source folder must be shared publicly or you must have access to it
+- The source folder must be shared publicly download or you must have access (download) to it
 - The source folder must have a shortcut created in your MyDrive
 
 ## Usage Instructions
@@ -98,7 +98,7 @@ Tool hoạt động bằng cách:
 ## Yêu cầu
 
 - Tài khoản Google (để sử dụng Google Colab và Google Drive)
-- Folder nguồn phải được chia sẻ công khai hoặc bạn có quyền truy cập
+- Folder nguồn phải được chia sẻ công khai và cho phép tải xuống hoặc bạn có quyền truy cập và tải xuống
 - Folder nguồn phải được tạo shortcut trong MyDrive của bạn
 
 ## Hướng dẫn sử dụng
